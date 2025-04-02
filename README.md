@@ -1,4 +1,14 @@
 # ChatBot em Python
+![Python](https://img.shields.io/badge/Python-Linguagem%20de%20programa%C3%A7%C3%A3o-blue?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/Flask-Framework%20Web-black?style=flat-square&logo=flask)
+![Render_Template](https://img.shields.io/badge/Render_Template-Template%20Engine-blue?style=flat-square&logo=jinja)
+![Request](https://img.shields.io/badge/Request-Requisições-blue?style=flat-square&logo=requests)
+![Jsonify](https://img.shields.io/badge/Jsonify-JSON%20Response-green?style=flat-square&logo=json)
+![Bot](https://img.shields.io/badge/Bot-Chatbot-red?style=flat-square&logo=chatbot)
+![BlenderBot](https://img.shields.io/badge/BlenderBot-Modelo%20de%20chat-orange?style=flat-square&logo=facebook)
+![Transformers](https://img.shields.io/badge/Transformers-Modelos%20de%20linguagem-pink?style=flat-square&logo=huggingface)
+![Torch](https://img.shields.io/badge/Torch-Redes%20neurais-red?style=flat-square&logo=pytorch)
+
 
 ## Descrição
 O **ChatBot em Python** é um chatbot interativo desenvolvido utilizando **Flask** como backend e o modelo de linguagem **BlenderBot** da Hugging Face para processamento de linguagem natural (NLP). O objetivo do projeto é fornecer uma interface web intuitiva para conversas dinâmicas, permitindo que os usuários façam perguntas e recebam respostas geradas por inteligência artificial.
