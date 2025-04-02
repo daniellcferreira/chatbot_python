@@ -1,0 +1,24 @@
+# Ignorar diretórios do ambiente virtual
+venv/
+.env
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações do Flask
+instance/
+*.sqlite3
+
+# Modelos baixados pelo Transformers
+~/.cache/huggingface/
+
+# Configurações específicas do sistema operacional
+.DS_Store
+Thumbs.db
